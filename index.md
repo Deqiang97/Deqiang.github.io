@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 ## 我的第一个blog
-This is my first blog and my host wab is http://10.150.100.18
+This is my first blog and my host wab is [host](http://10.150.100.18)
 
 You can use the [editor on GitHub](https://github.com/Deqiang97/Deqiang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
